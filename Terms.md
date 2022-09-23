@@ -1,10 +1,12 @@
 # Terms of Service
 ### Usage Agreement
+Lucy is a discord bot that sends random gifs and PFPs. It also gives the users best gif with high quality.
+
 By inviting the bot and using its features (commands, Moderation) are you agreeing to the below mentioned Terms and Privacy Policy (Policy) of the bot.
 
-You acknowledge that you have the priviledge to use the bot freely on any [Discord Server](https://discord.gg/RktcjTFdba) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com/).
+You acknowledge that you have the priviledge to use the bot freely on any [Discord Server](https://discord.gg/vbsda5eevx) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you're subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com/).
 
-Through Inviting the bot may it collect specific data as described in its [Policy](https://github.com/ahirjirao3244113/venox-tos/blob/main/PRIVACY.md).
+Through Inviting the bot may it collect specific data as described in its [Policy](https://github.com/ahirjirao3244113/lucy-tos/blob/main/PRIVACY.md).
 
 The intended usage of this data is for core functionalities of the bot such as command handling, guild-specific settings and the Welcoming System.
 
@@ -21,8 +23,6 @@ You may opt out by Removing the bot from any Server you have the rights for.
 ## Contact Us
 In order to resolve a complaint regarding the Bot or to receive further information regarding use of the Bot, please contact us at:
 
-Email: luciferji006@gmail.com
-
-Support server: https://discord.gg/RktcjTFdba
+Support server: https://discord.gg/vbsda5eevx
 
 Discord: ~ Piyush#8752
